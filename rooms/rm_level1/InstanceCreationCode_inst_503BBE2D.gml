@@ -1,0 +1,2 @@
+portal_type=portal_types.teleport
+tpportal_y=y-500

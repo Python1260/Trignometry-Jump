@@ -1,0 +1,2 @@
+trigger_type=trigger_types.flicker
+flicker_bpm=120

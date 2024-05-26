@@ -1,0 +1,1 @@
+swipe_type=swipe_types.grav

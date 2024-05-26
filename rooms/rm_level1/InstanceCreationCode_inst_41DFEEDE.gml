@@ -1,0 +1,1 @@
+portal_type=portal_types.grav_down

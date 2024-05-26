@@ -1,0 +1,1 @@
+portal_type=portal_types.icon_small

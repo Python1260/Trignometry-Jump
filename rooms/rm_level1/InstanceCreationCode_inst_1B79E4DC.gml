@@ -1,0 +1,1 @@
+speed_up_type=speed_up_types.fast

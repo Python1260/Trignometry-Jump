@@ -1,0 +1,2 @@
+object_code=2
+take_tiles=true

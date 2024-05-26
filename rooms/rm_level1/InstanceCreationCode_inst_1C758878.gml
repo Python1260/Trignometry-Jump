@@ -1,0 +1,1 @@
+transition_type=transition_types.scale_up

@@ -1,0 +1,1 @@
+image_index=speed_up_type
